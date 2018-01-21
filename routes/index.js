@@ -31,5 +31,4 @@ router.post('/sendAnswers', function(req, res, next) {
         });
 });
 
->>>>>>> Stashed changes
 module.exports = router;
